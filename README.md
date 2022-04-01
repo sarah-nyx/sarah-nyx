@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sarah-nyx (saramitra)
+- 👀 I’m interested in web & mobile application development
+- 🌱 I’m currently learning reactjs
+- 📫 vishwakp22@gmail.com
